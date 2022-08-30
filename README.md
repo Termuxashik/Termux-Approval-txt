@@ -1,1 +1,1 @@
-# Termux-Approval-txt
+Approval
